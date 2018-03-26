@@ -1,13 +1,3 @@
----
-title:  "Downloadable fonts - A new way of adding custom fonts"
-date:   2018-02-27
-author: Sahiljeet Singh
-categories:
-- blog
-tags:
-- android
----﻿
-
 ### Downloadable fonts
 
 ##### Downloadable Fonts:
