@@ -99,7 +99,7 @@ If you’re on *Linux* (we are using *Ubuntu*), then here are the steps you can 
 
 7. Copy the file path with its name and save it in your “*Appfile*” under *fastlane* folder like the screenshot below:
 
-    <img src="/static/google_file.png" alt="Drawing" style="width: 600px;"/>
+    <img src="/images/google_file.png" alt="Drawing" style="width: 600px;"/>
 
 8. Once the above file path is specified in the Appfile, now we need to define those automation commands in *Fastfile*.
 
@@ -107,7 +107,7 @@ If you’re on *Linux* (we are using *Ubuntu*), then here are the steps you can 
 
     - Open Fastfile and add the following code in it:
 
-      <img src="/static/code.png" alt="Drawing" style="width: 600px;"/>
+      <img src="/images/code.png" alt="Drawing" style="width: 600px;"/>
 
     Important things to notice in the code above:
     - *lane:* defines the name of this complete block of command which we will use to perform the entire automation.
